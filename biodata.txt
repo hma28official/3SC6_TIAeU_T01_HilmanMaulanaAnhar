@@ -2,3 +2,4 @@ NO.REG	: 1820010091
 Nama 	: Hilman Maulana Anhar
 Jurusan : TI-AeU
 Angkatan : 2018
+Kelas	: 3SC6
