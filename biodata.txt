@@ -1,2 +1,3 @@
 NO.REG	: 1820010091
 Nama 	: Hilman Maulana Anhar
+Jurusan : TI-AeU
